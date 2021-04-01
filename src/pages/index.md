@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Mega Ultra Studios
-    subtitle: Optional hero section subtitle
+    subtitle: Let's Make It Weird
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
       Hosted by Miles Tone.
