@@ -14,7 +14,7 @@ sections:
     image: images/splash.jpg
     image_alt: Hero section placeholder image
     media_position: left
-    media_width: sixty
+    media_width: fifty
     align: left
     padding_top: large
     padding_bottom: large
