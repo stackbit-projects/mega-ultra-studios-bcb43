@@ -11,6 +11,7 @@ sections:
       - label: Subscribe to Podcast
         url: /thank-you
         style: primary
+        icon: youtube
     image: images/splash.jpg
     image_alt: Hero section placeholder image
     media_position: left
