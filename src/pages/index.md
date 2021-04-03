@@ -189,7 +189,7 @@ seo:
   title: Mega Ultra Studios
   description: >-
     Mega Ultra Studios creates promotional videos for independent artists and
-    small business. 
+    small business. Let's Make it Weird.
   extra:
     - name: 'og:type'
       value: website
