@@ -111,7 +111,20 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Mega Ultra Studios. All rights reserved."
+        "content": "&copy; Mega Ultra Studios. All rights reserved.",
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "lorem-ipsum",
+                "style": "link",
+                "has_icon": false,
+                "icon": "apple-podcasts",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            }
+        ]
     },
     "title": "Mega Ultra Studios",
     "domain": "https://mega-ultra-studios-bcb43.netlify.app",
