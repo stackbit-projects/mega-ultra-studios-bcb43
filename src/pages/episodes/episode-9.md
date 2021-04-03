@@ -1,8 +1,6 @@
 ---
 title: Feature Films
-subtitle: >-
-  Innumerabilia dici possunt in hanc sententiam, sed non necesse est. Putabam
-  equidem satis, inquit, me dixisse.
+subtitle: Feature length films by Mega Ultra Studios.
 date: '2021-01-04'
 categories:
   - src/data/categories/season-2.yaml
