@@ -30,7 +30,7 @@ sections:
       title="YouTube video player" frameborder="0" allow="accelerometer;
       autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
       allowfullscreen></iframe>
-    background_image_position: center center
+    background_image_position: center bottom
   - type: blog_feed_section
     title: Latest Episodes
     blog_feed_cols: three
