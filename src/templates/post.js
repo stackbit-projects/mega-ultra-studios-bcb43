@@ -49,7 +49,11 @@ export default class Post extends React.Component {
             					<span className="post__date">Release Date: {` `} <time dateTime={moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%B %d, %Y')}</time></span>
             				</div>
             			</header>
-                        
+                        {has_image && (
+            			<div className={classNames('post__image', 'mb-3', {'cell-12': image_pos !== 'top', 'cell-lg-7': image_pos !== 'top', 'mb-lg-0': image_pos !== 'top'})}>
+            				<img src={withPrefix(_.get(this.props, 'pageContext.frontmatter.image', null))} alt={_.get(this.props, 'pageContext.frontmatter.image_alt', null)} />
+            			</div>
+            			)}
             		</div>
             	</div>
             	<div className="container container--medium">
