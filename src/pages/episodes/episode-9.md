@@ -5,6 +5,7 @@ subtitle: >-
   that killed their little sister.
 categories:
   - src/data/categories/season-2.yaml
+  - src/data/categories/category-3p83s5vy6.json
 thumb_image: images/post-9.jpg
 thumb_image_alt: Episode 9 placeholder image
 image: images/post-9.jpg
