@@ -209,7 +209,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Podcaster Theme
+      value: Mega Ultra Studios
     - name: 'twitter:description'
       value: >-
         Mega Ultra Studios creates promotional videos for independent artists
