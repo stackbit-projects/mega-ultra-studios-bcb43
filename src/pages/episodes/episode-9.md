@@ -9,7 +9,7 @@ thumb_image: images/Feature Films Cover V2.jpg
 thumb_image_alt: Episode 9 placeholder image
 image: images/Left for Dead Poster.jpg
 image_alt: Left for Dead poster image
-image_position: top
+image_position: left
 episode_embed_html: >-
   <iframe width="100%" height="166" scrolling="no" frameborder="no"
   allow="autoplay"
