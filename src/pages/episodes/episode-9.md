@@ -1,6 +1,8 @@
 ---
 title: Left for Dead
-subtitle: Feature length films by Mega Ultra Studios.
+subtitle: >-
+  Four of the toughest girls from the streets of New Mexico take on the hit-men
+  that killed their little sister.
 categories:
   - src/data/categories/season-2.yaml
 thumb_image: images/post-9.jpg
