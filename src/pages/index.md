@@ -195,7 +195,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Podcaster Theme
+      value: Mega Ultra Studios
       keyName: property
     - name: 'og:description'
       value: >-
