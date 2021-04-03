@@ -12,6 +12,7 @@ sections:
         url: /thank-you
         style: primary
         icon: youtube
+        has_icon: true
     image: images/splash.jpg
     image_alt: Hero section placeholder image
     media_position: left
