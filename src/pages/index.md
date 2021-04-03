@@ -198,7 +198,9 @@ seo:
       value: Stackbit Podcaster Theme
       keyName: property
     - name: 'og:description'
-      value: The preview of the Podcaster theme
+      value: >-
+        Mega Ultra Studios creates promotional videos for independent artists
+        and small business. Let's Make it Weird.
       keyName: property
     - name: 'og:image'
       value: images/hero.png
