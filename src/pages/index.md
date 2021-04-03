@@ -187,7 +187,9 @@ sections:
     background_image_opacity: 98
 seo:
   title: Mega Ultra Studios
-  description: The preview of the Podcaster theme
+  description: >-
+    Mega Ultra Studios creates promotional videos for independent artists and
+    small business. 
   extra:
     - name: 'og:type'
       value: website
