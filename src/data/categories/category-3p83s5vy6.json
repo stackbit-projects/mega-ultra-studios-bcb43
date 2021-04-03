@@ -1,6 +1,6 @@
 {
     "id": "feature-films",
-    "link": "projectsfeature-films",
+    "link": "projects/categoryfeature-films",
     "title": "Feature Films",
     "type": "category"
 }
