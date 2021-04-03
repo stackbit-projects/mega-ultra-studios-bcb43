@@ -6,7 +6,7 @@
     "base_font": "sans-serif",
     "header": {
         "title": "Mega Ultra Studios",
-        "logo": "images/Dark Logo.svg",
+        "logo": "images/logo.svg",
         "logo_alt": "Podcaster logo",
         "has_primary_nav": true,
         "primary_nav_links": [
