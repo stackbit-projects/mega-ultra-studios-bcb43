@@ -32,7 +32,7 @@ sections:
       allowfullscreen></iframe>
     background_image_position: center top
   - type: blog_feed_section
-    title: Latest Episodes
+    title: Projects
     blog_feed_cols: three
     enable_cards: true
     show_recent: true
