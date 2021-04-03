@@ -24,6 +24,12 @@ sections:
     background_image_size: cover
     background_image_opacity: 20
     has_border: true
+    video_embed_html: >-
+      <iframe width="560" height="315"
+      src="https://www.youtube-nocookie.com/embed/490aKBEbxEA?controls=0"
+      title="YouTube video player" frameborder="0" allow="accelerometer;
+      autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+      allowfullscreen></iframe>
   - type: blog_feed_section
     title: Latest Episodes
     blog_feed_cols: three
