@@ -42,7 +42,7 @@ export default class Post extends React.Component {
             						<BlogPostCategories {...this.props} categories={_.get(this.props, 'pageContext.frontmatter.categories', null)} container_class={'post__cat'} />
             						<span className="post__meta-sep"> &middot; </span>
             					</React.Fragment>)}
-            					<span className="post__date">Date Released: {` `}<time dateTime={moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%B %d, %Y')}</time></span>
+            					<span className="post__date">Date Released: {` `} <time dateTime={moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%B %d, %Y')}</time></span>
             				</div>
             				<h1 className="post__title mt-0">{_.get(this.props, 'pageContext.frontmatter.title', null)}</h1>
             				{_.get(this.props, 'pageContext.frontmatter.subtitle', null) && (
