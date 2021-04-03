@@ -1,5 +1,5 @@
 ---
-title: 'Left '
+title: Left for Dead
 subtitle: Feature length films by Mega Ultra Studios.
 date: '2021-01-04'
 categories:
