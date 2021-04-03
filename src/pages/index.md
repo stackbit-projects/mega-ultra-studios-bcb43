@@ -22,7 +22,7 @@ sections:
     background_image: images/Background.jpg
     background_image_repeat: no-repeat
     background_image_size: cover
-    background_image_opacity: 65
+    background_image_opacity: 85
     has_border: true
     video_embed_html: >-
       <iframe width="560" height="315"
