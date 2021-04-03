@@ -49,7 +49,7 @@ sections:
     padding_bottom: medium
     has_border: true
     background_color: none
-    background_image: images/pattern.svg
+    background_image: images/Diamond-Sunset.svg
     background_image_repeat: repeat
     background_image_size: auto
     background_image_opacity: 98
