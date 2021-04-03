@@ -49,6 +49,7 @@ export default class Post extends React.Component {
             					<span className="post__date">Release Date: {` `} <time dateTime={moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%B %d, %Y')}</time></span>
             				</div>
             			</header>
+                        
             		</div>
             	</div>
             	<div className="container container--medium">
