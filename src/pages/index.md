@@ -211,7 +211,9 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Podcaster Theme
     - name: 'twitter:description'
-      value: The preview of the Podcaster theme
+      value: >-
+        Mega Ultra Studios creates promotional videos for independent artists
+        and small business. Let's Make it Weird.
     - name: 'twitter:image'
       value: /images/splash.jpg
       relativeUrl: true
