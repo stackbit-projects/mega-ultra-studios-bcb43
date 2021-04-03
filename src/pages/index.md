@@ -203,7 +203,7 @@ seo:
         and small business. Let's Make it Weird.
       keyName: property
     - name: 'og:image'
-      value: images/hero.png
+      value: /images/splash.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
