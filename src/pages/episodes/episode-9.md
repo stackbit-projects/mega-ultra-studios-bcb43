@@ -9,7 +9,7 @@ thumb_image: images/Left for Dead Cover Large.jpg
 thumb_image_alt: Episode 9 placeholder image
 image: images/Left for Dead Poster Small.jpg
 image_alt: Left for Dead poster image
-image_position: right
+image_position: top
 episode_embed_html: >-
   <iframe width="560" height="315"
   src="https://www.youtube-nocookie.com/embed/8SB1WQQFSrQ?controls=0"
