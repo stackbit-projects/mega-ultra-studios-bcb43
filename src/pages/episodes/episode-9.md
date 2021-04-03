@@ -7,7 +7,7 @@ categories:
   - src/data/categories/category-3p83s5vy6.json
 thumb_image: images/Feature Films Cover V2.jpg
 thumb_image_alt: Episode 9 placeholder image
-image: images/Left for Dead Poster.jpg
+image: images/Left for Dead Poster Small.jpg
 image_alt: Left for Dead poster image
 image_position: left
 episode_embed_html: >-
