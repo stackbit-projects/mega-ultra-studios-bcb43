@@ -44,7 +44,14 @@ export default class Post extends React.Component {
             				)}
             				{_.get(this.props, 'pageContext.frontmatter.author', null) && (
             					<BlogPostAuthor {...this.props} author={_.get(this.props, 'pageContext.frontmatter.author', null)} container_class={'post__byline'} avatar_size={'medium'} />
-            				)}
+                            )}
+                            <div className="post__meta mb-2">
+            					{_.get(this.props, 'pageContext.frontmatter.categories', null) && (<React.Fragment>
+            						<BlogPostCategories {...this.props} categories={_.get(this.props, 'pageContext.frontmatter.categories', null)} container_class={'post__cat'} />
+            						<span className="post__meta-sep"> &middot; </span>
+            					</React.Fragment>)}
+            					<span className="post__date">Release Date: {` `} <time dateTime={moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(this.props, 'pageContext.frontmatter.date', null)).strftime('%B %d, %Y')}</time></span>
+            				</div>
             			</header>
             		</div>
             	</div>
