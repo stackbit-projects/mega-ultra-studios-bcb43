@@ -1,7 +1,6 @@
 ---
 title: Left for Dead
 subtitle: Feature length films by Mega Ultra Studios.
-date: '2021-01-04'
 categories:
   - src/data/categories/season-2.yaml
 thumb_image: images/post-9.jpg
