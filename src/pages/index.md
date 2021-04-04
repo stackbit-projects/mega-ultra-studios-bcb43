@@ -88,6 +88,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
+        image: images/you-tube-2017-icon-seeklogo.com-4.svg
       - title: Overcast
         title_align: center
         content_align: center
