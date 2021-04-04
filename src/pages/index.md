@@ -148,6 +148,7 @@ sections:
             no_follow: false
             type: action
         title_align: center
+        actions_width: full-width
       - image: images/logo-2.svg
         image_alt: Netlify logo
         image_align: center
