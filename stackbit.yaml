@@ -343,7 +343,7 @@ models:
           - stackbit_page_meta
   post:
     type: page
-    urlPath: '/episodes/{slug}'
+    urlPath: '/projects/{slug}'
     label: Post
     layout: post
     folder: episodes
