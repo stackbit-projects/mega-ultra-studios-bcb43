@@ -7,7 +7,7 @@ sections:
     align: center
     padding_top: small
     padding_bottom: small
-    has_border: true
+    has_border: false
     background_color: none
     image_alt: Projects cover image
     media_position: right
