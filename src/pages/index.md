@@ -231,11 +231,27 @@ sections:
     background_image_repeat: no-repeat
     type: features_section
   - type: form_section
-    content: >-
+    content: >
       ## Ask A Question
 
-      I'm OK with any kind of questions and will answer as many as I possibly
-      can.
+
+      We're happy to answer any inquiries, questions, concerns, or comments. 
+
+
+      ## &#xA;&#xA;Services
+
+
+      *   Videography
+
+
+      *   Video Editing and Motion Graphic Design
+
+
+      *   Social Media and Marketing Videos
+
+
+      *   Graphic Design for websites, print media, and Video on Demand
+      applications
     content_align: left
     form_position: right
     form_width: fifty
