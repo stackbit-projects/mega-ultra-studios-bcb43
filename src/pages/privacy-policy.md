@@ -64,38 +64,26 @@ This privacy notice applies to all information collected through our Services (w
 
 **1. WHAT INFORMATION DO WE COLLECT?**
 
-**
-Personal information you disclose to us**
+**Personal information you disclose to us**
 
-
-***In Short:  **We collect personal information that you provide to us.*
-
+***In Short:*** *We collect personal information that you provide to us.*
 
 We collect personal information that you voluntarily provide to us when you express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services or otherwise when you contact us.
 
-
 The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make and the products and features you use. The personal information we collect may include the following:
-
 
 **Personal Information Provided by You.** We collect names; email addresses; contact preferences; and other similar information.
 
-
 All personal information that you provide to us must be true, complete and accurate, and you must notify us of any changes to such personal information.
 
-**
-Information automatically collected**
+**Information automatically collected**
 
-
-***In Short:  **Some information — such as your Internet Protocol (IP) address and/or browser and device characteristics — is collected automatically when you visit our Services.*
-
+***In Short: *** *Some information — such as your Internet Protocol (IP) address and/or browser and device characteristics — is collected automatically when you visit our Services.*
 
 We automatically collect certain information when you visit, use or navigate the Services. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Services and other technical information. This information is primarily needed to maintain the security and operation of our Services, and for our internal analytics and reporting purposes.
 
-
 Like many businesses, we also collect information through cookies and similar technologies.
-
 
 The information we collect includes:
 
 *   *Log and Usage Data.* Log and usage data is service-related, diagnostic, usage and performance information our servers automatically collect when you access or use our Services and which we record in log files. Depending on how you interact with us, this log data may include your IP address, device information, browser type and settings and information about your activity in the Services (such as the date/time stamps associated with your usage, pages and files viewed, searches and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called 'crash dumps') and hardware settings).
-
