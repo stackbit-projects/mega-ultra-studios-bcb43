@@ -141,7 +141,7 @@ sections:
           - label: Browse Feature Films
             url: lorem-ipsum
             style: link
-            has_icon: false
+            has_icon: true
             icon: arrow-right
             icon_position: right
             new_window: false
