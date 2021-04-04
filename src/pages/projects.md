@@ -14,6 +14,7 @@ sections:
     media_width: sixty
     background_image: images/Background 2.jpg
     background_image_opacity: 45
+    background_image_position: center top
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
