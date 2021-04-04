@@ -10,6 +10,7 @@ sections:
         style: primary
         has_icon: true
         icon: arrow-left
+        icon_position: right
     align: center
     padding_bottom: large
     background_color: none
