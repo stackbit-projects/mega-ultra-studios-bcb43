@@ -83,7 +83,7 @@ sections:
             style: secondary
             has_icon: true
             icon: youtube
-            icon_position: right
+            icon_position: center
             new_window: true
         actions_align: center
         image_alt: YouTube icon
