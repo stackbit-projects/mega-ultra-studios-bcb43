@@ -107,6 +107,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
+        image: images/roku-seeklogo.com.svg
     grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: medium
