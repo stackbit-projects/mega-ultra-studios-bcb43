@@ -91,6 +91,7 @@ sections:
         image_align: center
         image_has_padding: false
         image: images/modern-spider.svg
+        actions_width: full-width
       - title: Overcast
         title_align: center
         content_align: center
