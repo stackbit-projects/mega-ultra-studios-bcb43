@@ -54,7 +54,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 98
   - type: grid_section
-    title: Subscribe
+    title: Watch Mega Ultra Studios
     grid_items:
       - title: Amazon Prime
         title_align: center
