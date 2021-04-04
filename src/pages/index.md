@@ -140,7 +140,7 @@ sections:
         actions:
           - label: Browse Feature Films
             url: lorem-ipsum
-            style: primary
+            style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: right
