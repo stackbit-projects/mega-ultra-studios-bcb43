@@ -122,7 +122,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Amazon",
                 "url": "lorem-ipsum",
                 "style": "link",
                 "has_icon": false,
