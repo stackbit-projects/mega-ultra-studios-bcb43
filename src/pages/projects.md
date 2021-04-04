@@ -33,6 +33,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: auto
     background_image_opacity: 98
+    align: center
   - type: form_section
     title: Get Podcast Straight Into your Inbox
     title_align: center
