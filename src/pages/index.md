@@ -151,8 +151,7 @@ sections:
         actions_width: full-width
         image_width: twenty-five
         image_has_padding: true
-      - image: images/logo-2.svg
-        image_alt: Netlify logo
+      - image_alt: Netlify logo
         image_align: center
         title: Short Films
         title_align: center
