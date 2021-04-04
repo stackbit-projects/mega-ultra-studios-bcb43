@@ -133,6 +133,7 @@ sections:
       - image: images/logo-1.svg
         image_alt: Stackbit logo
         image_align: center
+        title: Feature Films
       - image: images/logo-2.svg
         image_alt: Netlify logo
         image_align: center
