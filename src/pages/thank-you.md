@@ -9,6 +9,7 @@ sections:
         url: /
         style: primary
         has_icon: true
+        icon: arrow-left
     align: center
     padding_bottom: large
     background_color: none
