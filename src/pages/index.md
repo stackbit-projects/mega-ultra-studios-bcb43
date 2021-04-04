@@ -127,7 +127,7 @@ sections:
       - label: lorem-ipsum
         url: lorem-ipsum
         style: secondary
-        has_icon: false
+        has_icon: true
         icon: amazon
         icon_position: right
         new_window: false
