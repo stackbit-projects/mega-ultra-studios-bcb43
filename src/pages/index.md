@@ -56,7 +56,7 @@ sections:
   - type: grid_section
     title: Subscribe
     grid_items:
-      - title: Apple Podcasts
+      - title: Amazon Prime
         title_align: center
         content_align: center
         actions:
