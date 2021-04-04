@@ -173,7 +173,6 @@ sections:
     grid_gap_vert: medium
     has_border: true
     background_color: none
-    background_image: images/Background 4.jpg
     background_image_opacity: 25
   - title: lorem-ipsum
     subtitle: lorem-ipsum
