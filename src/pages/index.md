@@ -46,7 +46,7 @@ sections:
     show_author: false
     show_excerpt: true
     align: center
-    padding_top: medium
+    padding_top: large
     padding_bottom: medium
     has_border: true
     background_color: none
