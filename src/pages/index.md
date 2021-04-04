@@ -134,6 +134,7 @@ sections:
         image_alt: Stackbit logo
         image_align: center
         title: Feature Films
+        content_align: center
       - image: images/logo-2.svg
         image_alt: Netlify logo
         image_align: center
