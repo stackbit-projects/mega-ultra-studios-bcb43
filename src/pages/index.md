@@ -157,6 +157,7 @@ sections:
         title_align: center
         image: images/Short Films Cover V2.jpg
         image_position: top
+        image_has_padding: true
       - image: images/logo-3.svg
         image_alt: Sticker Mule logo
         image_align: center
