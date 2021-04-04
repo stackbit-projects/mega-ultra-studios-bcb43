@@ -8,7 +8,7 @@ sections:
       Mega Ultra Studios creates promotional videos for independent artists and
       small business
     actions:
-      - label: Subscribe to Podcast
+      - label: All Projects
         url: /thank-you
         style: primary
         icon: youtube
