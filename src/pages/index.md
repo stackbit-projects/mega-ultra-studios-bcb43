@@ -275,6 +275,7 @@ sections:
     background_image_opacity: 98
     title: Contact
     subtitle: Mega Ultra Studios
+    title_align: center
 seo:
   title: Mega Ultra Studios
   description: >-
