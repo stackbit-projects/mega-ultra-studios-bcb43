@@ -282,7 +282,7 @@ sections:
         is_required: true
     submit_label: Submit
     align_vert: top
-    padding_top: medium
+    padding_top: large
     padding_bottom: medium
     background_color: none
     background_image: images/pattern.svg
