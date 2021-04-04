@@ -102,7 +102,7 @@ sections:
             style: secondary
             has_icon: true
             icon: roku
-            icon_position: right
+            icon_position: center
         actions_align: center
         image_alt: Roku icon
         image_position: top
