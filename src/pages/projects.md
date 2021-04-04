@@ -25,7 +25,7 @@ sections:
     show_author: false
     show_excerpt: true
     show_image: true
-    padding_top: small
+    padding_top: medium
     padding_bottom: large
     has_border: false
     background_color: none
