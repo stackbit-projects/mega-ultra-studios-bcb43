@@ -159,7 +159,7 @@ sections:
         image_position: top
         image_has_padding: true
         actions:
-          - label: lorem-ipsum
+          - label: Browse Short Films
             url: lorem-ipsum
             style: link
             has_icon: false
