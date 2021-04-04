@@ -9,7 +9,6 @@ sections:
     padding_bottom: small
     has_border: true
     background_color: none
-    image: images/Background 2.jpg
     image_alt: Projects cover image
     media_position: right
     media_width: sixty
