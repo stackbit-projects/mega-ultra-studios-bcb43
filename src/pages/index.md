@@ -174,6 +174,7 @@ sections:
     has_border: true
     background_color: none
     background_image: images/Background 4.jpg
+    background_image_opacity: 45
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     features: []
