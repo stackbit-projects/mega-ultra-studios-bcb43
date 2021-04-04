@@ -11,7 +11,7 @@ sections:
       - label: All Projects
         url: /thank-you
         style: primary
-        icon: youtube
+        icon: arrow-right
         has_icon: true
     image: images/splash.jpg
     image_alt: Hero section placeholder image
