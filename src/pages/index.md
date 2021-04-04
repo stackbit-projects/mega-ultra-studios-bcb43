@@ -72,7 +72,7 @@ sections:
         image_alt: Amazon Prime icon
         image_position: top
         image_align: center
-        image_has_padding: false
+        image_has_padding: true
         image_width: fifty
       - title: Spotify
         title_align: center
