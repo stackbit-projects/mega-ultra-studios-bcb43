@@ -175,6 +175,7 @@ sections:
     background_color: none
     background_image_opacity: 35
     background_image: images/Bermuda-Square.svg
+    background_image_position: center center
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     features: []
