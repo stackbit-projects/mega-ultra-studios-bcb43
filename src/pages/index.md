@@ -221,7 +221,7 @@ sections:
         image: images/Feature Films Cover - Semi Transparent Background.png
     feature_padding_vert: medium
     align: center
-    padding_top: medium
+    padding_top: none
     padding_bottom: medium
     has_border: false
     background_color: none
