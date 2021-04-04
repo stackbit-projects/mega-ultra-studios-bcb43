@@ -35,7 +35,7 @@ sections:
       allowfullscreen></iframe>
     background_image_position: center top
   - type: blog_feed_section
-    title: Recent Projects
+    title: Latest Projects
     blog_feed_cols: three
     enable_cards: true
     show_recent: false
