@@ -3,7 +3,7 @@ title: Thank You
 sections:
   - type: hero_section
     title: Thank You!
-    subtitle: Thank you for you!
+    subtitle: Thank you for your submission!
     actions:
       - label: Back to homepage
         url: /
