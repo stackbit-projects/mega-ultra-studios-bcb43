@@ -30,7 +30,7 @@ sections:
     has_border: false
     background_color: none
     background_image: images/Bermuda-Square.svg
-    background_image_repeat: repeat
+    background_image_repeat: no-repeat
     background_image_size: contain
     background_image_opacity: 98
     align: left
