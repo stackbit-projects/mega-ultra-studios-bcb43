@@ -84,7 +84,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: center
-        image_alt: Spotify icon
+        image_alt: YouTube icon
         image_position: top
         image_align: center
         image_has_padding: true
