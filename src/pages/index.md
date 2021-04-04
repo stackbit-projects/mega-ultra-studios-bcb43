@@ -122,6 +122,7 @@ sections:
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 65
+    background_image_position: center top
   - type: grid_section
     title: Partners
     subtitle: 2021 Supporters
