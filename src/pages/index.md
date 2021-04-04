@@ -41,7 +41,7 @@ sections:
     show_recent: false
     recent_count: 6
     show_image: true
-    show_date: true
+    show_date: false
     show_categories: true
     show_author: false
     show_excerpt: false
