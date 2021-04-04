@@ -107,7 +107,7 @@
                 "style": "link",
                 "has_icon": true,
                 "icon": "imdb",
-                "icon_position": "center",
+                "icon_position": "left",
                 "new_window": true
             }
         ],
