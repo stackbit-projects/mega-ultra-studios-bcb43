@@ -135,7 +135,7 @@ sections:
         image_align: center
         title: Feature Films
         content_align: center
-        actions_align: right
+        actions_align: left
         image_position: top
         actions:
           - label: lorem-ipsum
