@@ -281,7 +281,7 @@ sections:
           can be contacted.
         is_required: true
     submit_label: Submit
-    align_vert: top
+    align_vert: middle
     padding_top: medium
     padding_bottom: medium
     background_color: none
