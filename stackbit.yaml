@@ -1609,6 +1609,7 @@ models:
           - arrow-right
           - imdb
           - roku
+          - amazon
           - facebook
           - github
           - google-podcasts
