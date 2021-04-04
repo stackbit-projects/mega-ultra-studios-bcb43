@@ -172,7 +172,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
     has_border: true
-    background_color: none
+    background_color: primary
     background_image_opacity: 35
     background_image: images/Bermuda-Square.svg
     background_image_position: center center
