@@ -12,7 +12,7 @@
         "primary_nav_links": [
             {
                 "label": "Projects",
-                "url": "/episodes",
+                "url": "/projects",
                 "style": "link"
             },
             {
