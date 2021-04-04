@@ -92,7 +92,7 @@ sections:
         image_has_padding: true
         image: images/modern-spider.svg
         actions_width: auto
-      - title: ukoR
+      - title: uokR
         title_align: center
         content_align: center
         actions:
