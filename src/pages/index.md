@@ -64,7 +64,7 @@ sections:
             url: 'https://www.amazon.com/v/megaultra'
             style: primary
             has_icon: true
-            icon: arrow-right
+            icon: amazon
             icon_position: right
             new_window: true
         actions_align: center
