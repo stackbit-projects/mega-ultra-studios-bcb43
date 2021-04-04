@@ -199,7 +199,7 @@ sections:
   - title: lorem-ipsum
     subtitle: lorem-ipsum
     features:
-      - title: lorem-ipsum
+      - title: UHm Something
         subtitle: lorem-ipsum
         content: >-
           ## Lorem ipsum
