@@ -130,7 +130,7 @@ sections:
     subtitle: Project
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: images/Feature Films Cover V2.jpg
         image_alt: Stackbit logo
         image_align: center
         title: Feature Films
