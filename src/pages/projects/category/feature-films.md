@@ -1,5 +1,5 @@
 ---
-title: 'Episodes, Season 1'
+title: 'Feature Films'
 sections:
   - type: hero_section
     title: Episodes
