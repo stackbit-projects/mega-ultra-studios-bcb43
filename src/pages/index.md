@@ -65,7 +65,7 @@ sections:
             style: primary
             has_icon: true
             icon: amazon
-            icon_position: right
+            icon_position: center
             new_window: true
         actions_align: center
         image: images/amazon-prime-seeklogo.com.svg
