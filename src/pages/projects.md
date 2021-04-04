@@ -29,7 +29,7 @@ sections:
     padding_bottom: large
     has_border: false
     background_color: none
-    background_image: images/pattern.svg
+    background_image: images/Bermuda-Square.svg
     background_image_repeat: repeat
     background_image_size: auto
     background_image_opacity: 98
