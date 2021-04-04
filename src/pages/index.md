@@ -116,7 +116,7 @@ sections:
     align: center
     padding_top: large
     padding_bottom: large
-    has_border: true
+    has_border: false
     background_color: secondary
     background_image: images/Background 6.jpg
     background_image_repeat: no-repeat
