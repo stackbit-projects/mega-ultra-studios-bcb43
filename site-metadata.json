@@ -125,7 +125,7 @@
                 "label": "Amazon",
                 "url": "https://www.amazon.com/v/megaultra",
                 "style": "link",
-                "has_icon": false,
+                "has_icon": true,
                 "icon": "apple-podcasts",
                 "icon_position": "right",
                 "new_window": false,
