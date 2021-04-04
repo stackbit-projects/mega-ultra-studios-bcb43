@@ -13,6 +13,7 @@ sections:
         style: primary
         icon: arrow-right
         has_icon: true
+        icon_position: right
     image: images/splash.jpg
     image_alt: Hero section placeholder image
     media_position: left
