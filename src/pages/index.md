@@ -79,7 +79,7 @@ sections:
         content_align: center
         actions:
           - label: Stream
-            url: 'https://www.youtube.com/'
+            url: 'https://www.youtube.com/megaultrastudios'
             style: secondary
             has_icon: true
             icon: arrow-right
