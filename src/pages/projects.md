@@ -15,6 +15,7 @@ sections:
     background_image: images/Background 2.jpg
     background_image_opacity: 25
     background_image_position: center top
+    background_image_size: cover
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
