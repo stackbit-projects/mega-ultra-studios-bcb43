@@ -2,7 +2,7 @@
 title: 'Feature Films'
 sections:
   - type: hero_section
-    title: Episodes
+    title: Feature Films
     subtitle: Season 1
     align: center
     padding_top: medium
