@@ -135,7 +135,7 @@ sections:
         image_align: center
         title: Feature Films
         content_align: center
-        actions_align: left
+        actions_align: center
         image_position: top
         actions:
           - label: Browse Feature Films
