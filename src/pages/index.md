@@ -97,7 +97,8 @@ sections:
         content_align: center
         actions:
           - label: Stream
-            url: /thank-you
+            url: >-
+              https://channelstore.roku.com/details/61101b2967d58e2533e55f329a861eb4/mega-ultra-studios
             style: secondary
             has_icon: true
             icon: arrow-right
