@@ -61,7 +61,7 @@ sections:
         content_align: center
         actions:
           - label: Stream
-            url: /thank-you
+            url: 'https://www.amazon.com/v/megaultra'
             style: secondary
             has_icon: true
             icon: arrow-right
