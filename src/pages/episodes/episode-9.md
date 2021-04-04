@@ -3,7 +3,8 @@ title: Left for Dead
 subtitle: >-
   Four of the toughest girls from the streets of New Mexico take on the hit-men
   that killed their little sister.
-categories: []
+categories:
+  - src/data/categories/feature-films.yaml
 thumb_image: images/Left for Dead Cover Large.jpg
 thumb_image_alt: Episode 9 placeholder image
 image: images/Left for Dead Poster Small.jpg
