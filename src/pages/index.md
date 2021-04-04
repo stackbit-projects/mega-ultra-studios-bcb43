@@ -26,7 +26,7 @@ sections:
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 80
-    has_border: true
+    has_border: false
     video_embed_html: >-
       <iframe width="560" height="315"
       src="https://www.youtube-nocookie.com/embed/490aKBEbxEA?controls=0"
