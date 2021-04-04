@@ -54,7 +54,6 @@ sections:
     background_image_repeat: repeat
     background_image_size: auto
     background_image_opacity: 98
-    category: src/data/categories/category-3p83s5vy6.json
   - type: grid_section
     title: Watch Mega Ultra Studios
     grid_items:
