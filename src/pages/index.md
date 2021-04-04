@@ -216,7 +216,7 @@ sections:
         image_alt: lorem-ipsum
         media_position: left
         media_width: fifty
-        align: right
+        align: center
         type: feature
         image: images/Feature Films Cover - Semi Transparent Background.png
     feature_padding_vert: medium
