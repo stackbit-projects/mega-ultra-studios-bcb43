@@ -127,7 +127,7 @@ sections:
     actions: []
   - type: grid_section
     title: Listings
-    subtitle: 2021 Supporters
+    subtitle: Project
     align: center
     grid_items:
       - image: images/logo-1.svg
