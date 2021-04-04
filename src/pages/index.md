@@ -62,7 +62,7 @@ sections:
         actions:
           - label: Stream
             url: 'https://www.amazon.com/v/megaultra'
-            style: link
+            style: secondary
             has_icon: true
             icon: arrow-right
             icon_position: right
