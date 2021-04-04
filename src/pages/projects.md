@@ -1,5 +1,5 @@
 ---
-title: Episodes
+title: Projects
 sections:
   - type: hero_section
     title: Episodes
