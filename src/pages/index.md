@@ -158,6 +158,16 @@ sections:
         image: images/Short Films Cover V2.jpg
         image_position: top
         image_has_padding: true
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: apple-podcasts
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
       - image: images/logo-3.svg
         image_alt: Sticker Mule logo
         image_align: center
