@@ -169,6 +169,7 @@ sections:
             no_follow: false
             type: action
         actions_align: center
+        actions_width: full-width
       - image: images/logo-3.svg
         image_alt: Sticker Mule logo
         image_align: center
