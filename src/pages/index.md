@@ -136,7 +136,7 @@ sections:
         title: Feature Films
         content_align: center
         actions_align: center
-        image_position: top
+        image_position: left
         actions:
           - label: Browse Feature Films
             url: lorem-ipsum
