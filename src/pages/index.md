@@ -126,7 +126,7 @@ sections:
     actions:
       - label: lorem-ipsum
         url: lorem-ipsum
-        style: link
+        style: secondary
         has_icon: false
         icon: apple-podcasts
         icon_position: right
