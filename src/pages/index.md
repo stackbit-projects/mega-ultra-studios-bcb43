@@ -138,7 +138,7 @@ sections:
         actions_align: left
         image_position: top
         actions:
-          - label: 'Browse '
+          - label: Browse Feature Films
             url: lorem-ipsum
             style: link
             has_icon: false
