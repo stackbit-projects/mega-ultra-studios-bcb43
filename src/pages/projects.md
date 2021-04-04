@@ -34,6 +34,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 98
     align: left
+    background_image_position: center top
   - type: form_section
     title: Get Podcast Straight Into your Inbox
     title_align: center
