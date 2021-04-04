@@ -2,7 +2,7 @@
 title: Projects
 sections:
   - type: hero_section
-    title: Episodes
+    title: Projects
     subtitle: List of episodes in order
     align: center
     padding_top: medium
