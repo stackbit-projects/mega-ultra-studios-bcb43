@@ -128,7 +128,7 @@ sections:
         url: lorem-ipsum
         style: secondary
         has_icon: false
-        icon: apple-podcasts
+        icon: amazon
         icon_position: right
         new_window: false
         no_follow: false
