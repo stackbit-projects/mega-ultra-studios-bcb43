@@ -9,7 +9,7 @@ sections:
       and promotional videos for independent artists and small business
     actions:
       - label: All Projects
-        url: /thank-you
+        url: /projects
         style: primary
         icon: arrow-right
         has_icon: true
