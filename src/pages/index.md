@@ -126,7 +126,7 @@ sections:
     background_image_position: center top
     actions: []
   - type: grid_section
-    title: Partners
+    title: Categori
     subtitle: 2021 Supporters
     align: center
     grid_items:
