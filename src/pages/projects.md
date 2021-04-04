@@ -11,7 +11,7 @@ sections:
     background_color: none
     image: images/Background 2.jpg
     image_alt: Projects cover image
-    media_position: left
+    media_position: right
     media_width: sixty
   - type: blog_feed_section
     blog_feed_cols: three
