@@ -235,10 +235,10 @@ sections:
       ## Ask A Question
 
 
-      We're happy to answer any inquiries, questions, concerns, or comments. 
+      We're happy to answer any inquiries, questions, concerns, or comments.
 
 
-      ## &#xA;&#xA;Services
+      ### &#xA;&#xA;Services
 
 
       *   Videography
