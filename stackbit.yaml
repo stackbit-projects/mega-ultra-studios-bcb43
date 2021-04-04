@@ -346,7 +346,7 @@ models:
     urlPath: '/projects/{slug}'
     label: Post
     layout: post
-    folder: 
+    folder: projects
     exclude:
       - index.md
       - category/**
