@@ -12,6 +12,7 @@ sections:
     image_alt: Projects cover image
     media_position: right
     media_width: sixty
+    background_image: images/Background 2.jpg
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
