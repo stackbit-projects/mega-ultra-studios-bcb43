@@ -202,8 +202,9 @@ sections:
 seo:
   title: Mega Ultra Studios
   description: >-
-    Mega Ultra Studios creates promotional videos for independent artists and
-    small business. Let's Make it Weird.
+    Mega Ultra Studios creates short and feature length films, music videos, and
+    promotional videos for independent artists and small business. Let's Make it
+    Weird.
   extra:
     - name: 'og:type'
       value: website
