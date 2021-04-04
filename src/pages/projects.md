@@ -27,7 +27,7 @@ sections:
     show_image: true
     padding_top: small
     padding_bottom: large
-    has_border: true
+    has_border: false
     background_color: none
     background_image: images/pattern.svg
     background_image_repeat: repeat
