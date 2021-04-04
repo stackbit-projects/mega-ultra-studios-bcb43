@@ -273,6 +273,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: auto
     background_image_opacity: 98
+    title: Contact
 seo:
   title: Mega Ultra Studios
   description: >-
