@@ -66,6 +66,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+            new_window: true
         actions_align: center
         image: images/amazon-prime-seeklogo.com.svg
         image_alt: Apple Podcasts icon
