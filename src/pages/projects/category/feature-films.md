@@ -13,7 +13,7 @@ sections:
     blog_feed_cols: three
     enable_cards: true
     show_recent: false
-    category: src/data/categories/season-1.yaml
+    category: src/data/categories/feature-films.yaml
     show_date: true
     show_categories: false
     show_author: false
