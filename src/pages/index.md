@@ -161,7 +161,7 @@ sections:
         actions:
           - label: Browse Short Films
             url: lorem-ipsum
-            style: secondary
+            style: primary
             has_icon: false
             icon: apple-podcasts
             icon_position: right
