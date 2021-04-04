@@ -173,7 +173,7 @@ sections:
     grid_gap_vert: medium
     has_border: true
     background_color: none
-    background_image_opacity: 85
+    background_image_opacity: 35
     background_image: images/Bermuda-Square.svg
   - title: lorem-ipsum
     subtitle: lorem-ipsum
