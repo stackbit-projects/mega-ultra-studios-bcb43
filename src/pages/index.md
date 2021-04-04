@@ -87,7 +87,7 @@ sections:
         image_alt: YouTube icon
         image_position: top
         image_align: center
-        image_has_padding: true
+        image_has_padding: false
         image: images/modern-spider.svg
       - title: Overcast
         title_align: center
