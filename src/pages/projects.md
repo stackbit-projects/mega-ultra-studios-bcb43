@@ -5,7 +5,7 @@ sections:
     title: Projects
     subtitle: All Projects
     align: center
-    padding_top: none
+    padding_top: small
     padding_bottom: small
     has_border: true
     background_color: none
