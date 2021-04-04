@@ -20,7 +20,7 @@ sections:
     blog_feed_cols: three
     enable_cards: true
     show_recent: false
-    show_date: true
+    show_date: false
     show_categories: true
     show_author: false
     show_excerpt: true
