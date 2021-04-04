@@ -5,8 +5,8 @@ sections:
     title: Mega Ultra Studios
     subtitle: Let's Make It Weird
     content: >
-      Mega Ultra Studios creates promotional videos for independent artists and
-      small business
+      Mega Ultra Studios creates short and feature length films, music videos,
+      and promotional videos for independent artists and small business
     actions:
       - label: All Projects
         url: /thank-you
