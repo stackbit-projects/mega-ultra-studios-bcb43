@@ -47,7 +47,7 @@ sections:
     show_excerpt: true
     align: center
     padding_top: large
-    padding_bottom: medium
+    padding_bottom: large
     has_border: true
     background_color: none
     background_image: images/Diamond-Sunset.svg
