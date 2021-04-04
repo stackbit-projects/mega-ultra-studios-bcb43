@@ -106,7 +106,7 @@
                 "url": "https://www.imdb.com/search/title/?companies=co0469320",
                 "style": "link",
                 "has_icon": true,
-                "icon": "google-podcasts",
+                "icon": "github",
                 "icon_position": "center",
                 "new_window": true
             }
