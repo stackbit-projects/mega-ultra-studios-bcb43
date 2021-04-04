@@ -200,7 +200,7 @@ sections:
     subtitle: lorem-ipsum
     features:
       - title: UHm Something
-        subtitle: lorem-ipsum
+        subtitle: Thing and stuff
         content: >-
           ## Lorem ipsum
 
