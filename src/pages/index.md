@@ -151,6 +151,7 @@ sections:
         image_alt: Netlify logo
         image_align: center
         title: Short Films
+        title_align: center
       - image: images/logo-3.svg
         image_alt: Sticker Mule logo
         image_align: center
