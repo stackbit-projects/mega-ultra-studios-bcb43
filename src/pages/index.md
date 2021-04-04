@@ -60,7 +60,7 @@ sections:
         title_align: center
         content_align: center
         actions:
-          - label: Strea
+          - label: Stream
             url: /thank-you
             style: secondary
             has_icon: true
