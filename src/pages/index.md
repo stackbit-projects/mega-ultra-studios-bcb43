@@ -84,7 +84,6 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: center
-        image: images/new-youtube-logo.svg
         image_alt: Spotify icon
         image_position: top
         image_align: center
