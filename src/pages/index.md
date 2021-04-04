@@ -69,7 +69,7 @@ sections:
             new_window: true
         actions_align: center
         image: images/amazon-prime-seeklogo.com.svg
-        image_alt: Apple Podcasts icon
+        image_alt: Amazon Prime icon
         image_position: top
         image_align: center
         image_has_padding: true
