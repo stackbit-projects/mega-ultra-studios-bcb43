@@ -129,7 +129,7 @@ sections:
         style: secondary
         has_icon: true
         icon: amazon
-        icon_position: right
+        icon_position: center
         new_window: false
         no_follow: false
         type: action
