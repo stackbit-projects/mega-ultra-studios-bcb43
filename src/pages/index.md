@@ -138,7 +138,7 @@ sections:
         actions_align: left
         image_position: top
         actions:
-          - label: lorem-ipsum
+          - label: 'Browse '
             url: lorem-ipsum
             style: link
             has_icon: false
