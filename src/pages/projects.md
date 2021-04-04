@@ -11,6 +11,7 @@ sections:
     background_color: none
     image: images/Background 2.jpg
     image_alt: Projects cover image
+    media_position: top
   - type: blog_feed_section
     blog_feed_cols: three
     enable_cards: true
