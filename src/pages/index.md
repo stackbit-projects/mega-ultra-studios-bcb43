@@ -137,6 +137,16 @@ sections:
         content_align: center
         actions_align: center
         image_position: top
+        actions:
+          - label: lorem-ipsum
+            url: lorem-ipsum
+            style: link
+            has_icon: false
+            icon: apple-podcasts
+            icon_position: right
+            new_window: false
+            no_follow: false
+            type: action
       - image: images/logo-2.svg
         image_alt: Netlify logo
         image_align: center
