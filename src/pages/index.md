@@ -101,7 +101,7 @@ sections:
               https://channelstore.roku.com/details/61101b2967d58e2533e55f329a861eb4/mega-ultra-studios
             style: secondary
             has_icon: true
-            icon: arrow-right
+            icon: roku
             icon_position: right
         actions_align: center
         image_alt: Roku icon
