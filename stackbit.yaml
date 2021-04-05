@@ -330,7 +330,7 @@ models:
     type: page
     label: Page
     layout: page
-    exclude: episodes/**/*
+    exclude: projects/**/*
     fields:
       - type: string
         name: title
